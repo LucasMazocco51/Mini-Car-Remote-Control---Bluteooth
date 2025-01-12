@@ -1,0 +1,7 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Workspace\\v5.4\\esp-idf",
+    "idf.toolsPathWin": "C:\\Workspace\\.espressif",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM5"
+}
